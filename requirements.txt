@@ -8,3 +8,4 @@ pandas
 openpyxl
 scikit-learn
 sentence-transformers
+faiss-gpu
