@@ -1,0 +1,9 @@
+Flask
+Flask-CORS
+gunicorn
+langchain
+langchain-community
+langchain-groq
+pandas
+scikit-learn
+sentence-transformers
